@@ -22,7 +22,7 @@ equal to zero.
  Modulus Function (%): It takes two numbers as inputs, stores them in a register,
 divides them using the “div” operation, and displays its remainder, which is the mod.
 
-#Implementation:
+# Implementation:
 Our program is implemented using Emulator emu8086. The program is designed in Assembly
 language. It is assembled, emulated, and run on emu8086. We have designed a separate
 subroutine for each operation.
